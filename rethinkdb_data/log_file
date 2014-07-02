@@ -1,0 +1,47 @@
+2014-07-02T13:20:36.063348000 0.034468s info: Creating directory /Users/jbailey/go/rethinkdb_data
+2014-07-02T13:20:36.065436000 0.036555s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/jbailey/go/rethinkdb_data' did not already exist.)
+2014-07-02T13:20:36.065505000 0.036624s info: Running rethinkdb 1.13.0 (CLANG 5.1 (clang-503.0.40))...
+2014-07-02T13:20:36.068729000 0.039849s info: Running on Darwin 13.3.0 x86_64
+2014-07-02T13:20:36.068761000 0.039880s info: Using cache size of 3153 MB
+2014-07-02T13:20:36.068792000 0.039911s info: Loading data from directory /Users/jbailey/go/rethinkdb_data
+2014-07-02T13:20:36.266866000 0.237986s info: Listening for intracluster connections on port 29015
+2014-07-02T13:20:36.271768000 0.242887s error: Could not bind to RDB protocol port: The address at localhost:28015 is reserved or already in use.
+2014-07-02T13:20:57.963838000 0.003158s info: Running rethinkdb 1.13.0 (CLANG 5.1 (clang-503.0.40))...
+2014-07-02T13:20:57.967340000 0.006660s info: Running on Darwin 13.3.0 x86_64
+2014-07-02T13:20:57.967370000 0.006690s info: Using cache size of 3157 MB
+2014-07-02T13:20:57.967392000 0.006712s info: Loading data from directory /Users/jbailey/go/rethinkdb_data
+2014-07-02T13:20:57.974552000 0.013872s info: Listening for intracluster connections on port 29015
+2014-07-02T13:20:57.977105000 0.016425s error: Could not bind to RDB protocol port: The address at localhost:28015 is reserved or already in use.
+2014-07-02T13:21:15.987733000 0.003395s info: Running rethinkdb 1.13.0 (CLANG 5.1 (clang-503.0.40))...
+2014-07-02T13:21:15.991191000 0.006852s info: Running on Darwin 13.3.0 x86_64
+2014-07-02T13:21:15.991225000 0.006886s info: Using cache size of 3283 MB
+2014-07-02T13:21:15.991248000 0.006910s info: Loading data from directory /Users/jbailey/go/rethinkdb_data
+2014-07-02T13:21:15.999254000 0.014915s info: Listening for intracluster connections on port 29015
+2014-07-02T13:21:16.000850000 0.016512s info: Listening for client driver connections on port 28015
+2014-07-02T13:21:16.000958000 0.016619s info: Listening for administrative HTTP connections on port 8080
+2014-07-02T13:21:16.000960000 0.016621s info: Listening on addresses: 127.0.0.1, ::1
+2014-07-02T13:21:16.000968000 0.016630s info: To fully expose RethinkDB on the network, bind to all addresses
+2014-07-02T13:21:16.000976000 0.016637s info: by running rethinkdb with the `--bind all` command line option.
+2014-07-02T13:21:16.000984000 0.016645s info: Server ready
+2014-07-02T13:21:31.905873000 15.921822s info: Server got SIGINT from pid 910, uid 502; shutting down...
+2014-07-02T13:21:31.906145000 15.922094s info: Shutting down client connections...
+2014-07-02T13:21:31.906736000 15.922686s info: All client connections closed.
+2014-07-02T13:21:31.906749000 15.922699s info: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2014-07-02T13:21:31.906767000 15.922717s info: Storage engine shut down.
+2014-07-02T13:25:29.973735000 0.004389s info: Running rethinkdb 1.13.0 (CLANG 5.1 (clang-503.0.40))...
+2014-07-02T13:25:29.977457000 0.008111s info: Running on Darwin 13.3.0 x86_64
+2014-07-02T13:25:29.977500000 0.008154s info: Using cache size of 3257 MB
+2014-07-02T13:25:29.977530000 0.008184s info: Loading data from directory /Users/jbailey/go/rethinkdb_data
+2014-07-02T13:25:29.985078000 0.015732s info: Listening for intracluster connections on port 29015
+2014-07-02T13:25:29.988215000 0.018869s error: Could not bind to RDB protocol port: The address at localhost:28015 is reserved or already in use.
+2014-07-02T13:25:46.375834000 0.003807s info: Running rethinkdb 1.13.0 (CLANG 5.1 (clang-503.0.40))...
+2014-07-02T13:25:46.379913000 0.007886s info: Running on Darwin 13.3.0 x86_64
+2014-07-02T13:25:46.379946000 0.007919s info: Using cache size of 3267 MB
+2014-07-02T13:25:46.379972000 0.007946s info: Loading data from directory /Users/jbailey/go/rethinkdb_data
+2014-07-02T13:25:46.388604000 0.016577s info: Listening for intracluster connections on port 29015
+2014-07-02T13:25:46.389727000 0.017701s info: Listening for client driver connections on port 28015
+2014-07-02T13:25:46.389829000 0.017803s info: Listening for administrative HTTP connections on port 8080
+2014-07-02T13:25:46.389831000 0.017805s info: Listening on addresses: 127.0.0.1, ::1
+2014-07-02T13:25:46.389840000 0.017814s info: To fully expose RethinkDB on the network, bind to all addresses
+2014-07-02T13:25:46.389849000 0.017822s info: by running rethinkdb with the `--bind all` command line option.
+2014-07-02T13:25:46.389858000 0.017831s info: Server ready
